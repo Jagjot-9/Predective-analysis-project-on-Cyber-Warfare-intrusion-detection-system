@@ -1,0 +1,2 @@
+# Predective-analysis-project-on-Cyber-Warfare-intrusion-detection-system
+Cyber Warfare Intrusion Detection System using SVM to detect malicious network traffic. It performs EDA, feature encoding, and scaling, and trains an RBF-kernel SVM. A probability-based approach classifies traffic as Normal, Suspicious, or Malicious, with real-time user-input predictions for practical cybersecurity analysis.
